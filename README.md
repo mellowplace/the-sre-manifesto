@@ -6,3 +6,4 @@
 * Always make sure you containerise everything and use advanced scheduling software. This way you can make sure your infrastructure is ready when that static website suddenly becomes a complex financial analysis platform.
 * Metrics such as SLIs, SLAs and SLOs are great to have productive discussions. Throwing more instances in is usually better. Follow your primal instincts.
 * Alert fatigue? Send those alerts straight to your fitbit and never miss a beat again.
+* Start the weekend on Thursday to avoid those no deploy Friday's
